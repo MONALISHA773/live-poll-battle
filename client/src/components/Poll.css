@@ -1,0 +1,23 @@
+.poll-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    margin: 1.5rem 0;
+  }
+  
+  .poll-container button {
+    flex: 1;
+    padding: 1rem;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 10px;
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .poll-container button:hover {
+    background-color: #218838;
+  }
+  

@@ -1,0 +1,15 @@
+.room-container {
+    max-width: 500px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .room-container h2 {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+    color: #24496f;
+  }
+  
